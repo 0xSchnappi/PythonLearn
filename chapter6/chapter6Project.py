@@ -18,13 +18,12 @@ dataSize = []
 
 for i in range(len(tableData)):
     for j in range(len(tableData[0])):
-        print(tableData[i][j])
         if j == 0:
             dataSize.append(len(tableData[i][j]))
         else:
             if dataSize[i] < len(tableData[i][j]):
                dataSize[i] = len(tableData[i][j])
-print(dataSize)   
+               
 for i in range(len(tableData[0])):
     dataStr = ""
     for j in range(len(tableData)):
