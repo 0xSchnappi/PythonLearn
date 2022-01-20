@@ -7,5 +7,3 @@
 ## chapter6 字符串操作
 # 第二部分：自动化任务
 ## chapter7 模式匹配与正则表达式
-## chapter8 读写文件
-## chapter9 组织文件
