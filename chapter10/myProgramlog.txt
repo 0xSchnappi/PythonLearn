@@ -1,0 +1,15 @@
+ 2022-01-22 11:18:45,324 - DEBUG - Start of program
+ 2022-01-22 11:18:45,324 - DEBUG - Start of factorial(5)
+ 2022-01-22 11:18:45,324 - DEBUG - i is 0, total is 0
+ 2022-01-22 11:18:45,324 - DEBUG - i is 1, total is 0
+ 2022-01-22 11:18:45,324 - DEBUG - i is 2, total is 0
+ 2022-01-22 11:18:45,324 - DEBUG - i is 3, total is 0
+ 2022-01-22 11:18:45,324 - DEBUG - i is 4, total is 0
+ 2022-01-22 11:18:45,324 - DEBUG - i is 5, total is 0
+ 2022-01-22 11:18:45,324 - DEBUG - End of factorial(5)
+ 2022-01-22 11:18:45,325 - DEBUG - End of program
+ 2022-01-22 11:18:45,325 - DEBUG - Some debugging details.
+ 2022-01-22 11:18:45,325 - INFO - The logging model is working.
+ 2022-01-22 11:18:45,325 - WARNING - An error message is about to be logged.
+ 2022-01-22 11:18:45,325 - ERROR - An error has occurred.
+ 2022-01-22 11:18:45,325 - CRITICAL - The program is unable to recover!
