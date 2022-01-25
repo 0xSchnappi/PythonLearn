@@ -1,0 +1,1672 @@
+1643002768045	geckodriver	INFO	Listening on 127.0.0.1:1050
+1643002771100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1051" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileQ6jotg"
+1643002771527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileQ6jotg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1051/devtools/browser/71536770-0392-45c3-b5c2-d1baf6d2d25d
+1643002773299	Marionette	INFO	Listening on port 1070
+1643002773801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643002776718	Marionette	INFO	Stopped listening on port 1070
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643002827809	geckodriver	INFO	Listening on 127.0.0.1:1146
+1643002830896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1147" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileQ0N7it"
+1643002831200	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileQ0N7it\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1147/devtools/browser/07c0fa1c-af17-4a3a-83b7-c52c191a9efe
+1643002833002	Marionette	INFO	Listening on port 1152
+1643002833057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1643002838727	Marionette	INFO	Stopped listening on port 1152
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643011609455	geckodriver	INFO	Listening on 127.0.0.1:1785
+1643011612539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1786" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofiledfSczG"
+1643011612869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofiledfSczG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1786/devtools/browser/3764680f-bacf-44ee-ab82-271d8074bd6a
+1643011614746	Marionette	INFO	Listening on port 1793
+1643011615204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+console.error: "stylesheets: fetch failed for http://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css, using system principal instead."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643013570300	Marionette	INFO	Stopped listening on port 1793
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileTe8fd9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1968/devtools/browser/7dbeb1c1-4cde-4a3d-9e59-57b4c39d66a6
+1643011652265	Marionette	INFO	Listening on port 1981
+1643011652316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643013569298	Marionette	INFO	Stopped listening on port 1981
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+36b9-0b28-4b83-8a54-18b93ea97707
+1643011724405	Marionette	INFO	Listening on port 2244
+1643011724474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1643013414691	Marionette	INFO	Stopped listening on port 2244
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+st_mozprofileGzNyhV"
+1643013371950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileGzNyhV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:27584/devtools/browser/ca03e638-c484-43d3-8a6d-47b3d0df735e
+1643013373883	Marionette	INFO	Listening on port 27589
+1643013374309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1643013412533	Marionette	INFO	Stopped listening on port 27589
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643013478404	geckodriver	INFO	Listening on 127.0.0.1:27749
+1643013481506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "27750" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileF4zEsT"
+1643013481846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileF4zEsT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:27750/devtools/browser/8c85d0fc-e66f-425d-8c3e-bcb6c3e442c4
+1643013483674	Marionette	INFO	Listening on port 27755
+1643013484177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643013568776	Marionette	INFO	Stopped listening on port 27755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+xists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileNKaXsC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:27912/devtools/browser/c3fb537d-fff3-4534-908f-867cf2e4b427
+1643013557791	Marionette	INFO	Listening on port 27917
+1643013557837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1643013647578	geckodriver	INFO	Listening on 127.0.0.1:21786
+1643013650681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "21787" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilez4ph7T"
+1643013650941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilez4ph7T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:21787/devtools/browser/fa51ad78-8550-4de2-9bc4-70e1e0734596
+1643013652784	Marionette	INFO	Listening on port 21792
+1643013652828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: "stylesheets: fetch failed for http://inventwithpython.com/css/bootstrap.min.css, using system principal instead."
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-acconsole.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipeJavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643014208179	Marionette	INFO	Stopped listening on port 21792
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643014207208	Marionette	INFO	Stopped listening on port 21959
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643014209917	geckodriver	INFO	Listening on 127.0.0.1:22405
+1643014213012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22406" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilet43fe7"
+1643014213297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilet43fe7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:22406/devtools/browser/f076bb72-a0bc-4882-a20f-2c56da3cbd6b
+1643014215130	Marionette	INFO	Listening on port 22412
+1643014215175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1643014609752	Marionette	INFO	Stopped listening on port 22412
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "22535" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile1TSiY9"
+1643014224727	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile1TSiY9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:22535/devtools/browser/21760deb-f339-4dd8-b31f-68652f281bb8
+1643014226403	Marionette	INFO	Listening on port 22552
+1643014226456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 5529 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643014609098	Marionette	INFO	Stopped listening on port 22552
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+xists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilehffgZY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:22745/devtools/browser/902146fa-19f0-445e-8cfb-8b481b81b88f
+1643014608907	Marionette	INFO	Listening on port 22754
+1643014609359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1643014616440	Marionette	INFO	Stopped listening on port 22754
+console.warn: TopSitesFeed: Failed to fetch data from Contil1643014619512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22891" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile8RFwd3"
+1643014619774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile8RFwd3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:22891/devtools/browser/1c80773e-fca4-41c6-9779-cd0a637337c9
+1643014621489	Marionette	INFO	Listening on port 22898
+1643014621556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 5578 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643016718729	geckodriver	INFO	Listening on 127.0.0.1:22882
+1643016721808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22883" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileC7qPFF"
+1643016722084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileC7qPFF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:22883/devtools/browser/b6cb315c-c85f-44a3-b7ff-0ec099bf2b9a
+1643016723906	Marionette	INFO	Listening on port 22908
+1643016723957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://rescdn.qqmail.com/zh_CN/htmledition/style/loginpage4cf68c.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://res.mail.qq.com/zh_CN/htmledition/style/ptlogin_input_for_xmail56dc25.css without a browsingContextID set
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643021286235	Marionette	INFO	Stopped listening on port 22908
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+xists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile14CFZM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:23236/devtools/browser/c10ccc34-cf40-4f29-af82-eb874148648d
+1643016837737	Marionette	INFO	Listening on port 23241
+1643016837817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643016927570	Marionette	INFO	Stopped listening on port 23241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643016932480	geckodriver	INFO	Listening on 127.0.0.1:23533
+1643016935548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "23534" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile42L8Md"
+1643016935829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile42L8Md\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:23534/devtools/browser/88194b3b-57bf-4c1d-a62c-579cc9906736
+1643016937674	Marionette	INFO	Listening on port 23541
+1643016937715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643017039812	Marionette	INFO	Stopped listening on port 23541
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643017058449	geckodriver	INFO	Listening on 127.0.0.1:23844
+1643017061536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "23845" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileE3CXD0"
+1643017061830	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileE3CXD0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:23845/devtools/browser/be0bfbda-5caf-4637-b853-b72662398e2a
+1643017063541	Marionette	INFO	Listening on port 23851
+1643017063588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.w3cschool.cn/htmltags/tag-label.html, line 2498: unreachable code after return statement
+1643021287448	Marionette	INFO	Stopped listening on port 23851
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643017339714	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileEkGbnU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14214/devtools/browser/2939e7bb-971e-4c36-b819-ece7f8ffcdf2
+1643017341484	Marionette	INFO	Listening on port 14219
+1643017341599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643017375472	Marionette	INFO	Stopped listening on port 14219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643017422881	geckodriver	INFO	Listening on 127.0.0.1:14520
+1643017425989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14521" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileP5YurX"
+1643017426293	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileP5YurX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14521/devtools/browser/4ded2ce3-255a-48c6-9673-78d482ec3c4c
+1643017428163	Marionette	INFO	Listening on port 14526
+1643017428636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643017458565	Marionette	INFO	Stopped listening on port 14526
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "14791" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilekYkUM0"
+1643017456074	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilekYkUM0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14791/devtools/browser/0a19e0f8-db60-439d-a4fe-334ed630cff5
+1643017457934	Marionette	INFO	Listening on port 14800
+1643017458443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643017487732	Marionette	INFO	Stopped listening on port 14800
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643017658223	geckodriver	INFO	Listening on 127.0.0.1:6824
+1643017661278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6825" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilerdved9"
+1643017661585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilerdved9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6825/devtools/browser/cf561919-9612-4e5a-92d7-b3760b6a8494
+1643017663314	Marionette	INFO	Listening on port 6832
+1643017663342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643017722234	Marionette	INFO	Stopped listening on port 6832
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "7096" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileJgFSjh"
+1643017706981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileJgFSjh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7096/devtools/browser/59da7e9b-20bf-48f6-ad8f-42ceca4535b8
+1643017708792	Marionette	INFO	Listening on port 7102
+1643017708852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643017718271	Marionette	INFO	Stopped listening on port 7102
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643020158113	geckodriver	INFO	Listening on 127.0.0.1:15262
+1643020161184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "15263" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileZ5vJq5"
+1643020161502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileZ5vJq5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:15263/devtools/browser/82ec77a8-03a9-41fb-b3d7-50580447736e
+1643020163288	Marionette	INFO	Listening on port 15271
+1643020163365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643020192174	Marionette	INFO	Stopped listening on port 15271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643020321825	geckodriver	INFO	Listening on 127.0.0.1:15587
+1643020324924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "15588" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile5BbKYr"
+1643020325215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile5BbKYr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:15588/devtools/browser/f90f72a0-4b2d-455b-8ecb-34d711d40123
+1643020327291	Marionette	INFO	Listening on port 15593
+1643020327631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643020719637	Marionette	INFO	Stopped listening on port 15593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofilesmptLy"
+1643020642083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilesmptLy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16031/devtools/browser/448ad83c-c9ac-4a30-89d0-7392bd1d86dc
+1643020643912	Marionette	INFO	Listening on port 16036
+1643020643966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643020718692	Marionette	INFO	Stopped listening on port 16036
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643020721430	geckodriver	INFO	Listening on 127.0.0.1:16336
+1643020724507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16337" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileuk45aY"
+1643020724770	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileuk45aY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16337/devtools/browser/ffb65a26-87b4-4cc0-a31f-6215916d741c
+1643020726692	Marionette	INFO	Listening on port 16342
+1643020727167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643020777878	Marionette	INFO	Stopped listening on port 16341643020779076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16634" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileJ9LIzq"
+1643020779372	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileJ9LIzq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16634/devtools/browser/e8564291-829a-4558-9386-0e21a27b75ad
+1643020781152	Marionette	INFO	Listening on port 16642
+1643020781230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643020793718	Marionette	INFO	Stopped listening on port 16642
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643020799184	geckodriver	INFO	Listening on 127.0.0.1:1112
+1643020802251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1113" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileKu1Q2J"
+1643020802575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileKu1Q2J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1113/devtools/browser/2d8ffab3-b4a4-482d-8c01-463a8ecdda8c
+1643020804540	Marionette	INFO	Listening on port 1120
+1643020804903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+1643020887867	Marionette	INFO	Stopped listening on port 1120
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643020892079	geckodriver	INFO	Listening on 127.0.0.1:1552
+1643020895176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1553" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile4F6h5e"
+1643020895467	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile4F6h5e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1553/devtools/browser/03ea5935-1b21-49cb-a2fd-516f87665c3b
+1643020897529	Marionette	INFO	Listening on port 1560
+1643020897828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643020957602	Marionette	INFO	Stopped listening on port 1560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643021057199	geckodriver	INFO	Listening on 127.0.0.1:1925
+1643021060269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1926" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilelwZliZ"
+1643021060539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilelwZliZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1926/devtools/browser/b545f6d3-402c-4b59-845a-2d4d348fcb22
+1643021062354	Marionette	INFO	Listening on port 1931
+1643021062430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643021294536	Marionette	INFO	Stopped listening on port 1931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643021296035	geckodriver	INFO	Listening on 127.0.0.1:2334
+1643021299121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2335" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilelLJcue"
+1643021299409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilelLJcue\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2335/devtools/browser/0029712a-b2d0-4394-86b2-bf7ee04e8eed
+1643021301178	Marionette	INFO	Listening on port 2340
+1643021301279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:'';'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2097:35
+addAllSources@resource://devtools/server/actors/thread.js:1452:14
+watch@resource://devtools/server/actors/resources/sources.js:49:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:150:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:623:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:'';'
+console.warn: "Resource  of root-node was not found."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://addons.mozilla.org"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://addons.mozilla.org"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/webp/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/webp/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/webp/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript error: undefined, line 0: Error: Permission denied to access property "document" on cross-origin object
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/webp/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/webp/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/webp/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript error: https://mail.qq.com/cgi-bin/frame_html?sid=iz3ag5XJMvgWCTFQ&r=770eba566a025fdb13ae927b9b5d28ab, line 1: ReferenceError: beforeFrameHtmlUnload is not defined
+1643067987227	Marionette	INFO	Stopped listening on port 2340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+41-4020-bdf3-d40e959e9090
+1643027096276	Marionette	INFO	Listening on port 1460
+1643027096345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643027322370	Marionette	INFO	Stopped listening on port 1460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "1771" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile1Xyc8a"
+1643027321831	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile1Xyc8a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1771/devtools/browser/6b8bf3be-ddd5-4bf9-9979-39141d7ac8bc
+1643027323857	Marionette	INFO	Listening on port 1776
+1643027324194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643027693891	Marionette	INFO	Stopped listening on port 1776
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "2260" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilep6ku5T"
+1643027546508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilep6ku5T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2260/devtools/browser/31f14a89-3b6c-426a-817b-e92357ff87c4
+1643027548343	Marionette	INFO	Listening on port 2265
+1643027548390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643027695397	Marionette	INFO	Stopped listening on port 2265
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643027759114	geckodriver	INFO	Listening on 127.0.0.1:2614
+1643027762217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2615" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilenPSBCv"
+1643027762496	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilenPSBCv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2615/devtools/browser/85c1b328-5b96-49a7-9039-a188230bb4c6
+1643027764188	Marionette	INFO	Listening on port 2623
+1643027764285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+1643027794104	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643028228922	Marionette	INFO	Stopped listening on port 2623
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "3016" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile6juv6p"
+1643028222689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile6juv6p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3016/devtools/browser/a493f8f7-bd13-4e9f-babe-68df0e5b04b6
+1643028224573	Marionette	INFO	Listening on port 3025
+1643028225008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643028640176	Marionette	INFO	Stopped listening on port 3025
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17668, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+xists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileFh5Z5G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3513/devtools/browser/fa7a2ec9-b209-4a6e-bf05-939589855a80
+1643028559651	Marionette	INFO	Listening on port 3520
+1643028560189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643028641603	Marionette	INFO	Stopped listening on port 3520
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_mozprofilee2u7KB"
+1643028639580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilee2u7KB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3854/devtools/browser/f742dc91-a89d-42f5-8890-77236ce36725
+1643028641524	Marionette	INFO	Listening on port 3862
+1643028641935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643029371872	Marionette	INFO	Stopped listening on port 3862
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643029373972	geckodriver	INFO	Listening on 127.0.0.1:4370
+1643029377050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4371" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile83CPRu"
+1643029377351	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile83CPRu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4371/devtools/browser/27abf1d3-cc49-460b-9f09-b62014238a02
+1643029379281	Marionette	INFO	Listening on port 4376
+1643029379731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643030330867	Marionette	INFO	Stopped listening on port 4376
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643030335922	geckodriver	INFO	Listening on 127.0.0.1:1053
+1643030338971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1054" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileBg3f07"
+1643030339272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileBg3f07\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1054/devtools/browser/548ede6b-72ea-4c12-b00f-98eec09fad2b
+1643030341018	Marionette	INFO	Listening on port 1062
+1643030341115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643066300089	Marionette	INFO	Stopped listening on port 1061643066300200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1038" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileVMTG5I"
+1643066300518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileVMTG5I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1038/devtools/browser/1d7fd617-c360-4578-a20e-60674c85a5f5
+1643066302298	Marionette	INFO	Listening on port 1045
+1643066302364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643066375025	Marionette	INFO	Stopped listening on port 1045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643066376626	geckodriver	INFO	Listening on 127.0.0.1:1382
+1643066379693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1385" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileCCdgzm"
+1643066380043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileCCdgzm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1385/devtools/browser/8714f0d9-10c3-42af-8f1b-db4caa81aa65
+1643066382271	Marionette	INFO	Listening on port 1390
+1643066382356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643066464140	Marionette	INFO	Stopped listening on port 1390
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "1697" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofiler7vln1"
+1643066464360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofiler7vln1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1697/devtools/browser/c9218b00-4f60-4cd9-8b6b-940c399621c7
+1643066466353	Marionette	INFO	Listening on port 1702
+1643066466705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643066540554	Marionette	INFO	Stopped listening on port 1702
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_mozprofile0U6B63"
+1643066536835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile0U6B63\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2014/devtools/browser/ebf84cdc-eed1-4749-8d45-190a838079c5
+1643066538781	Marionette	INFO	Listening on port 2019
+1643066539181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643066651575	Marionette	INFO	Stopped listening on port 2019
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643067007227	geckodriver	INFO	Listening on 127.0.0.1:2478
+1643067010309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2479" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile6obBbR"
+1643067010635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile6obBbR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2479/devtools/browser/3e299ece-1784-4c07-adba-6ddb67c80579
+1643067012460	Marionette	INFO	Listening on port 2484
+1643067012482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643067138328	Marionette	INFO	Stopped listening on port 248164console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "3003" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileJlqMGr"
+1643067138664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileJlqMGr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3003/devtools/browser/f0a97e7b-ffe0-47de-b6d7-64610e90e6e8
+1643067140456	Marionette	INFO	Listening on port 3016
+1643067140496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643067281612	Marionette	INFO	Stopped listening on port 3016
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643067283231	geckodriver	INFO	Listening on 127.0.0.1:3336
+1643067286308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3337" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilesbzizv"
+1643067286603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilesbzizv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3337/devtools/browser/4896577d-2736-46fb-9b28-8be65f921be2
+1643067288418	Marionette	INFO	Listening on port 3345
+1643067288478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643067983281	Marionette	INFO	Stopped listening on port 3345
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "3647" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileNI210U"
+1643067419709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileNI210U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3647/devtools/browser/16f45be5-3813-4012-ae30-834f87d171da
+1643067421516	Marionette	INFO	Listening on port 3653
+1643067421567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript error: https://mail.qq.com/cgi-bin/readtemplate?sid=rBrEz9nqcrhXdk4v&t=compose&ver=0502&s=cnew&s=left&loc=frame_html,,,21, line 496: TypeError: getTop().BJ_REPORT is undefined
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:(function(){document.open();document.domain='mail.qq.com';frameElement['_render_']=1;try{document.write('<head><script>window.onerror=function(){return true};</script>'+parent['_cAcheBYifRAme_']['_164306745357906494178822351596_h']+'</head>'+parent['_cAcheBYifRAme_']['_164306745357906494178822351596_b']);parent['_cAcheBYifRAme_']['_164306745357906494178822351596_h']=parent['_cAcheBYifRAme_']['_164306745357906494178822351596_b']=null;}catch(e){alert(e.message);}document.close();})()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2097:35
+addAllSources@resource://devtools/server/actors/thread.js:1452:14
+watch@resource://devtools/server/actors/resources/sources.js:49:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:150:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:623:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:21
+Line: 670, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:(function(){document.open();document.domain='mail.qq.com';frameElement['_render_']=1;try{document.write('<head><script>window.onerror=function(){return true};</script>'+parent['_cAcheBYifRAme_']['_164306745292805034693529338935_h']+'</head>'+parent['_cAcheBYifRAme_']['_164306745292805034693529338935_b']);parent['_cAcheBYifRAme_']['_164306745292805034693529338935_h']=parent['_cAcheBYifRAme_']['_164306745292805034693529338935_b']=null;}catch(e){alert(e.message);}document.close();})()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2097:35
+addAllSources@resource://devtools/server/actors/thread.js:1452:14
+watch@resource://devtools/server/actors/resources/sources.js:49:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:150:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:623:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:(function(){document.open();document.domain='mail.qq.com';frameElement['_render_']=1;try{document.write('<head><script>window.onerror=function(){return true};</script>'+parent['_cAcheBYifRAme_']['_164306745357906494178822351596_h']+'</head>'+parent['_cAcheBYifRAme_']['_164306745357906494178822351596_b']);parent['_cAcheBYifRAme_']['_164306745357906494178822351596_h']=parent['_cAcheBYifRAme_']['_164306745357906494178822351596_b']=null;}catch(e){alert(e.message);}document.close();})()'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:(function(){document.open();document.domain='mail.qq.com';frameElement['_render_']=1;try{document.write('<head><script>window.onerror=function(){return true};</script>'+parent['_cAcheBYifRAme_']['_164306745292805034693529338935_h']+'</head>'+parent['_cAcheBYifRAme_']['_164306745292805034693529338935_b']);parent['_cAcheBYifRAme_']['_164306745292805034693529338935_h']=parent['_cAcheBYifRAme_']['_164306745292805034693529338935_b']=null;}catch(e){alert(e.message);}document.close();})()'
+1643067916361	geckodriver	INFO	Listening on 127.0.0.1:4117
+1643067919477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4118" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileFnkxTc"
+1643067919782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileFnkxTc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4118/devtools/browser/1fbb78c7-348d-4bf7-b2ab-0aebded2ecdc
+1643067921605	Marionette	INFO	Listening on port 4123
+1643067921631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643067980260	Marionette	INFO	Stopped listening on port 4123
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643068003602	geckodriver	INFO	Listening on 127.0.0.1:4399
+1643068006711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4400" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilej64s02"
+1643068006971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilej64s02\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4400/devtools/browser/18dbb450-ceb9-4c20-ae17-27c6b8cc5ee7
+1643068008812	Marionette	INFO	Listening on port 4405
+1643068008868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643068025746	geckodriver	INFO	Listening on 127.0.0.1:4605
+1643068028871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4606" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilexgVUIf"
+1643068029164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilexgVUIf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4606/devtools/browser/450b9c5d-017a-43d3-8880-1d3c82dd449b
+1643068031134	Marionette	INFO	Listening on port 4611
+1643068031595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:(function(){document.open();document.domain='mail.qq.com';frameElement['_render_']=1;try{document.write('<head><script>window.onerror=function(){return true};</script>'+parent['_cAcheBYifRAme_']['_1643068064165035342459339189447_h']+'</head>'+parent['_cAcheBYifRAme_']['_1643068064165035342459339189447_b']);parent['_cAcheBYifRAme_']['_1643068064165035342459339189447_h']=parent['_cAcheBYifRAme_']['_1643068064165035342459339189447_b']=null;}catch(e){alert(e.message);}document.close();})()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2097:35
+addAllSources@resource://devtools/server/actors/thread.js:1452:14
+watch@resource://devtools/server/actors/resources/sources.js:49:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:150:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:623:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:21
+Line: 670, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:(function(){document.open();document.domain='mail.qq.com';frameElement['_render_']=1;try{document.write('<head><script>window.onerror=function(){return true};</script>'+parent['_cAcheBYifRAme_']['_164306806356303912819498640332_h']+'</head>'+parent['_cAcheBYifRAme_']['_164306806356303912819498640332_b']);parent['_cAcheBYifRAme_']['_164306806356303912819498640332_h']=parent['_cAcheBYifRAme_']['_164306806356303912819498640332_b']=null;}catch(e){alert(e.message);}document.close();})()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2097:35
+addAllSources@resource://devtools/server/actors/thread.js:1452:14
+watch@resource://devtools/server/actors/resources/sources.js:49:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:150:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:623:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:(function(){document.open();document.domain='mail.qq.com';frameElement['_render_']=1;try{document.write('<head><script>window.onerror=function(){return true};</script>'+parent['_cAcheBYifRAme_']['_1643068064165035342459339189447_h']+'</head>'+parent['_cAcheBYifRAme_']['_1643068064165035342459339189447_b']);parent['_cAcheBYifRAme_']['_1643068064165035342459339189447_h']=parent['_cAcheBYifRAme_']['_1643068064165035342459339189447_b']=null;}catch(e){alert(e.message);}document.close();})()'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:(function(){document.open();document.domain='mail.qq.com';frameElement['_render_']=1;try{document.write('<head><script>window.onerror=function(){return true};</script>'+parent['_cAcheBYifRAme_']['_164306806356303912819498640332_h']+'</head>'+parent['_cAcheBYifRAme_']['_164306806356303912819498640332_b']);parent['_cAcheBYifRAme_']['_164306806356303912819498640332_h']=parent['_cAcheBYifRAme_']['_164306806356303912819498640332_b']=null;}catch(e){alert(e.message);}document.close();})()'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643068246313	Marionette	INFO	Stopped listening on port 4611
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643068660588	geckodriver	INFO	Listening on 127.0.0.1:6456
+1643068663697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6457" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilennXymN"
+1643068663984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilennXymN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6457/devtools/browser/fe5a76b6-4764-4c26-ba2d-8e95601b5bbf
+1643068665809	Marionette	INFO	Listening on port 6464
+1643068665861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643068894046	Marionette	INFO	Stopped listening on port 6464
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_mozprofiler0xSu7"
+1643068891995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofiler0xSu7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6801/devtools/browser/de3bf6c1-3b31-408d-8c2f-e821f67eace1
+1643068893820	Marionette	INFO	Listening on port 6806
+1643068894344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+1643068920607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript error: https://mail.qq.com/cgi-bin/readtemplate?sid=rBrEz9nqcrhXdk4v&t=compose&ver=0502&s=cnew&s=left&loc=frame_html,,,21#stattime=1643068925880, line 496: TypeError: getTop().BJ_REPORT is undefined
+1643068926390	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643068976578	Marionette	INFO	Stopped listening on port 6801643068977977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7120" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile5FUSiU"
+1643068978325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile5FUSiU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7120/devtools/browser/0258786f-d0d7-4a70-af75-507b41d1d483
+1643068980156	Marionette	INFO	Listening on port 7129
+1643068980659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643069088641	Marionette	INFO	Stopped listening on port 7129
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643069101614	geckodriver	INFO	Listening on 127.0.0.1:7444
+1643069104713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7445" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileQ5ycpN"
+1643069105003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileQ5ycpN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7445/devtools/browser/caaaace9-5400-4025-a317-bc797eb3ded5
+1643069106913	Marionette	INFO	Listening on port 7453
+1643069107394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+1643069239953	Marionette	INFO	Stopped listening on port 7453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_mozprofilejVnNGD"
+1643069239909	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilejVnNGD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7777/devtools/browser/3ed9ef18-c7bb-4b1e-b739-f0c2e94aadf1
+1643069241836	Marionette	INFO	Listening on port 7786
+1643069242295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643069311055	Marionette	INFO	Stopped listening on port 7786
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643069331573	geckodriver	INFO	Listening on 127.0.0.1:8109
+1643069334654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8110" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilethaQPO"
+1643069334987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilethaQPO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8110/devtools/browser/29aa4330-1a8f-44c8-b290-7b007da8d680
+1643069336816	Marionette	INFO	Listening on port 8118
+1643069337349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+1643069363191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript error: https://mail.qq.com/cgi-bin/readtemplate?sid=rBrEz9nqcrhXdk4v&t=compose&ver=0502&s=cnew&s=left&loc=frame_html,,,21#stattime=1643069368473, line 496: TypeError: getTop().BJ_REPORT is undefined
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643069368970	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643070021405	Marionette	INFO	Stopped listening on port 8118
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643071187077	geckodriver	INFO	Listening on 127.0.0.1:34193
+1643071190176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34194" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile7dgMBN"
+1643071190554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile7dgMBN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34194/devtools/browser/be7b7d51-0252-4abc-85cb-810658d3cc0d
+1643071192405	Marionette	INFO	Listening on port 34201
+1643071192834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+1643071222774	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+1643071228029	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://mail.qq.com/cgi-bin/readtemplate?sid=rBrEz9nqcrhXdk4v&t=compose&ver=0502&s=cnew&s=left&loc=frame_html,,,21, line 496: TypeError: getTop().BJ_REPORT is undefined
+1643071228521	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643071311681	Marionette	INFO	Stopped listening on port 34201643071312455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34527" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileSjUGzr"
+1643071312765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileSjUGzr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34527/devtools/browser/4a721d8f-d84d-4e87-a8ee-a1bf5f399b4c
+1643071314554	Marionette	INFO	Listening on port 34537
+1643071314609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+1643071340266	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript error: https://mail.qq.com/cgi-bin/readtemplate?sid=rBrEz9nqcrhXdk4v&t=compose&ver=0502&s=cnew&s=left&loc=frame_html,,,21, line 496: TypeError: getTop().BJ_REPORT is undefined
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643071372408	Marionette	INFO	Stopped listening on port 34537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileVsWiEj"
+1643071369929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileVsWiEj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34849/devtools/browser/b2468d80-52b3-4bfb-a110-2a93062a278c
+1643071371738	Marionette	INFO	Listening on port 34856
+1643071372295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643071420578	Marionette	INFO	Stopped listening on port 34856
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643071422377	geckodriver	INFO	Listening on 127.0.0.1:35058
+1643071425496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "35059" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileS3nVnD"
+1643071425817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileS3nVnD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35059/devtools/browser/3811d966-e9e4-447f-a94c-7aec240d880d
+1643071427629	Marionette	INFO	Listening on port 35065
+1643071427662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript error: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 597: TypeError: a.getAttribute is not a function
+1643071739094	Marionette	INFO	Stopped listening on port 35065
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileG3mexU"
+1643071578463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileG3mexU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35392/devtools/browser/703e68dd-0895-4534-bcd6-d5069037a54e
+1643071580234	Marionette	INFO	Listening on port 35398
+1643071580351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643071738343	Marionette	INFO	Stopped listening on port 35398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "35747" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileC8iDyV"
+1643071738251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileC8iDyV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35747/devtools/browser/e24881f4-71fc-4448-bc75-2e1710d23e79
+1643071740261	Marionette	INFO	Listening on port 35756
+1643071740549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643071830981	Marionette	INFO	Stopped listening on port 35751643071831961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "36078" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileL4aMjS"
+1643071832264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileL4aMjS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36078/devtools/browser/462b45ed-9353-4eec-b28d-71b7e6d24e4f
+1643071834036	Marionette	INFO	Listening on port 36086
+1643071834120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://mail.qq.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643072295998	Marionette	INFO	Stopped listening on port 36086
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofiled9U5bC"
+1643072224034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofiled9U5bC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36615/devtools/browser/0d5020e6-00a1-45e8-b304-e0bfaa7aae27
+1643072225968	Marionette	INFO	Listening on port 36624
+1643072226430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643072279318	Marionette	INFO	Stopped listening on port 36624
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643072293816	geckodriver	INFO	Listening on 127.0.0.1:2233
+1643072296896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2234" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile5vQEtN"
+1643072297222	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile5vQEtN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2234/devtools/browser/6d385099-dd92-4573-ab57-ae7434fabf68
+1643072299174	Marionette	INFO	Listening on port 2338
+1643072299583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643074798956	Marionette	INFO	Stopped listening on port 2338
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643074801126	geckodriver	INFO	Listening on 127.0.0.1:16650
+1643074804226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16651" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilevzNvKk"
+1643074804540	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilevzNvKk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16651/devtools/browser/597b2bcb-2f9b-4b61-8f1d-6ae2d10e8355
+1643074806423	Marionette	INFO	Listening on port 16661
+1643074806894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+1643074868073	Marionette	INFO	Stopped listening on port 16661643074869950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16977" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile89rj59"
+1643074870235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile89rj59\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16977/devtools/browser/7c053c02-7010-47b0-a282-46e707e52209
+1643074872055	Marionette	INFO	Listening on port 16991
+1643074872120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript error: https://mail.qq.com/cgi-bin/readtemplate?sid=rBrEz9nqcrhXdk4v&t=compose&ver=0502&s=cnew&s=left&loc=frame_html,,,21#stattime=1643074910569, line 496: TypeError: getTop().BJ_REPORT is undefined
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643075064094	Marionette	INFO	Stopped listening on port 16991
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mozprofileX7Yy0V"
+1643075063785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileX7Yy0V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1200/devtools/browser/b3335790-58ef-4a61-9cc5-9d3b29383bc6
+1643075065637	Marionette	INFO	Listening on port 1217
+1643075065663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://mail.qq.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643075181984	Marionette	INFO	Stopped listening on port 12171643075182370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "28516" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile8LW2IQ"
+1643075182639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofile8LW2IQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:28516/devtools/browser/545ea03f-64ca-44ed-aa72-f890246fb469
+1643075184453	Marionette	INFO	Listening on port 28532
+1643075184549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643075299489	Marionette	INFO	Stopped listening on port 28532
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643075301372	geckodriver	INFO	Listening on 127.0.0.1:31472
+1643075304464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "31473" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilebiYMZ1"
+1643075304767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilebiYMZ1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:31473/devtools/browser/f04c29cc-a4b3-4872-a39c-c0f2f7d651f7
+1643075306646	Marionette	INFO	Listening on port 31486
+1643075307139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643093623962	Marionette	INFO	Stopped listening on port 31486
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "32096" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileYc7Tda"
+1643075513215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileYc7Tda\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32096/devtools/browser/6068800c-72ba-49f3-a0ab-6d305e61658f
+1643075515008	Marionette	INFO	Listening on port 32104
+1643075515084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643093625264	Marionette	INFO	Stopped listening on port 32104
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileZegDkc"
+1643075642663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileZegDkc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32540/devtools/browser/a3bdf6f1-653e-45a0-8366-d390c5dc5842
+1643075644581	Marionette	INFO	Listening on port 32548
+1643075645055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643093626321	Marionette	INFO	Stopped listening on port 32548
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "32941" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilehMsK1H"
+1643075734797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilehMsK1H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32941/devtools/browser/6db65744-045d-43ab-8855-afa776c15d20
+1643075736768	Marionette	INFO	Listening on port 32954
+1643075737083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643093627556	Marionette	INFO	Stopped listening on port 32954
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileApwvEU"
+1643093577057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileApwvEU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34387/devtools/browser/7c1b40a5-64af-485e-830e-2805e463072d
+1643093578909	Marionette	INFO	Listening on port 34395
+1643093579354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643093643490	Marionette	INFO	Stopped listening on port 34391643093644558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34724" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileX6CmeC"
+1643093644851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileX6CmeC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34724/devtools/browser/8c812d6d-da1a-4384-b426-2d07e07cdba5
+1643093646550	Marionette	INFO	Listening on port 34733
+1643093646612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643093799575	Marionette	INFO	Stopped listening on port 34733
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileVx8HxC"
+1643093797595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileVx8HxC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35141/devtools/browser/c44feae0-5eba-4f7e-84cc-2f42268e885f
+1643093799541	Marionette	INFO	Listening on port 35149
+1643093799923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript error: https://mail.qq.com/cgi-bin/readtemplate?sid=rBrEz9nqcrhXdk4v&t=compose&ver=0502&s=cnew&s=left&loc=frame_html,,,21#stattime=1643093830213, line 496: TypeError: getTop().BJ_REPORT is undefined
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+1643093830722	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+1643093869619	Marionette	INFO	Stopped listening on port 35149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643094138483	geckodriver	INFO	Listening on 127.0.0.1:35751
+1643094141596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "35752" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilenZTSB2"
+1643094141919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilenZTSB2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35752/devtools/browser/5119919b-6a6d-4ab0-9dd7-4b61af13e534
+1643094143772	Marionette	INFO	Listening on port 35758
+1643094144263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+1643094175299	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://mail.qq.com/cgi-bin/readtemplate?sid=rBrEz9nqcrhXdk4v&t=compose&ver=0502&s=cnew&s=left&loc=frame_html,,,21, line 496: TypeError: getTop().BJ_REPORT is undefined
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:'''"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2097:35
+addAllSources@resource://devtools/server/actors/thread.js:1452:14
+watch@resource://devtools/server/actors/resources/sources.js:49:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:150:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:623:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:21
+Line: 670, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:'';'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2097:35
+addAllSources@resource://devtools/server/actors/thread.js:1452:14
+watch@resource://devtools/server/actors/resources/sources.js:49:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:150:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:623:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:21
+Line: 670, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:(function(){document.open();document.domain='mail.qq.com';frameElement['_render_']=1;try{document.write('<head><script>window.onerror=function(){return true};</script>'+parent['_cAcheBYifRAme_']['_164309417977804837435727508893_h']+'</head>'+parent['_cAcheBYifRAme_']['_164309417977804837435727508893_b']);parent['_cAcheBYifRAme_']['_164309417977804837435727508893_h']=parent['_cAcheBYifRAme_']['_164309417977804837435727508893_b']=null;}catch(e){alert(e.message);}document.close();})()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2097:35
+addAllSources@resource://devtools/server/actors/thread.js:1452:14
+watch@resource://devtools/server/actors/resources/sources.js:49:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:150:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:623:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:'''
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:'';'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:(function(){document.open();document.domain='mail.qq.com';frameElement['_render_']=1;try{document.write('<head><script>window.onerror=function(){return true};</script>'+parent['_cAcheBYifRAme_']['_164309417977804837435727508893_h']+'</head>'+parent['_cAcheBYifRAme_']['_164309417977804837435727508893_b']);parent['_cAcheBYifRAme_']['_164309417977804837435727508893_h']=parent['_cAcheBYifRAme_']['_164309417977804837435727508893_b']=null;}catch(e){alert(e.message);}document.close();})()'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643094651966	Marionette	INFO	Stopped listening on port 35758
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal2147483660/domnode151, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared1643094653066	Marionette	INFO	Stopped listening on port 36561
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643094670070	geckodriver	INFO	Listening on 127.0.0.1:36732
+1643094673190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "36733" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileIEdq7n"
+1643094673533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileIEdq7n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36733/devtools/browser/b69593ba-084f-490b-a96c-1b76db15ede6
+1643094675342	Marionette	INFO	Listening on port 36741
+1643094675879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+1643095316252	geckodriver	INFO	Listening on 127.0.0.1:32597
+1643095319374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32598" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileqSOSbp"
+1643095319649	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileqSOSbp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32598/devtools/browser/dade8751-def5-49eb-a622-f1cd21bea089
+1643095321490	Marionette	INFO	Listening on port 32603
+1643095321541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 115: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/readmail25aee1a.js, line 4640: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/compose259f7df.js, line 8898: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 10774: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all5b5a7b.js, line 12734: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+JavaScript error: https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://image.baidu.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flickr.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal2147483704/pagestyle26 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+1643102294965	geckodriver	INFO	Listening on 127.0.0.1:4137
+1643102298052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4138" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileTTP7lC"
+1643102298376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileTTP7lC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4138/devtools/browser/07aee75d-e261-48c3-b131-ed63b8a10fb0
+1643102300145	Marionette	INFO	Listening on port 4145
+1643102300223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643102305959	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+z4", (void 0)))
+DevTools listening on ws://localhost:1243/devtools/browser/9fb0612f-b1f2-45a4-a81f-585eef3d6d95
+1643102682309	Marionette	INFO	Listening on port 1251
+1643102682743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+1643102689090	geckodriver	INFO	Listening on 127.0.0.1:1445
+1643102692156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1446" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileafQfpX"
+1643102692460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileafQfpX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1446/devtools/browser/1e8a06fe-46f7-4901-93f3-cf0559f328c1
+1643102694317	Marionette	INFO	Listening on port 1471
+1643102694833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643103417206	geckodriver	INFO	Listening on 127.0.0.1:28518
+1643103420281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "28519" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofiletC81m7"
+1643103420579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofiletC81m7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:28519/devtools/browser/8d9bc131-ccd9-4719-a864-e8bebc87f351
+1643103422422	Marionette	INFO	Listening on port 28528
+1643103422440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+1643104268369	geckodriver	INFO	Listening on 127.0.0.1:1921
+1643104269407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1922" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileDj8Jxn"
+1643104269697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileDj8Jxn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1922/devtools/browser/a6045ef6-6d75-4ea5-8373-103e8b7a2928
+1643104271580	Marionette	INFO	Listening on port 1928
+1643104272092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
+1643104319050	geckodriver	INFO	Listening on 127.0.0.1:2256
+1643104320097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2257" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilePa0Xcv"
+1643104320422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofilePa0Xcv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2257/devtools/browser/3a3c28ee-4d7e-43cd-8c59-1d7d6ef340ea
+1643104322198	Marionette	INFO	Listening on port 2263
+1643104322257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643104323535	Marionette	INFO	Stopped listening on port 2263
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643104381337	geckodriver	INFO	Listening on 127.0.0.1:2393
+1643104382381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2394" "-no-remote" "-profile" "C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileqFEhmo"
+1643104382683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Schnappi\\AppData\\Local\\Temp\\rust_mozprofileqFEhmo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2394/devtools/browser/460240a7-4731-41c8-87e8-4612421eb5b5
+1643104384613	Marionette	INFO	Listening on port 2399
+1643104385028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://combo.staticflickr.com/ap/build/javascripts/prbd-e9f26b55.js, line 3: TypeError: can't convert undefined to object
