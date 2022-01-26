@@ -3,7 +3,7 @@
 import requests, json
 
 cityName = 'chengdu'
-APIkey = '755ac1bd95a7bbb249ebd620721490d3'
+APIkey = 'OpenWeatherMap Token'
 lang = 'zh_cn'
 url = 'http://api.openweathermap.org/data/2.5/weather?q=' + cityName + '&appid=' + APIkey + '&lang=' + lang
 print(url)
